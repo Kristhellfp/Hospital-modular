@@ -3,6 +3,7 @@ import hospital.view.LoginView;
 import backEnd.BackEnd;
 import hospital.services.DataSala;
 import hospital.view.SalaView;
+import hospital.controller.LoginController;
 
 
 public class Main {
