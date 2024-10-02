@@ -16,6 +16,10 @@ public class LoginController {
         this.loginView.addLoginListener(e -> handleLogin());
     }
 
+    public LoginController() {
+        super();
+    }
+
     private void handleLogin() {
 
         String usuario = loginView.getUsuario();
