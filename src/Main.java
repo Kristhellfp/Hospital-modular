@@ -5,6 +5,7 @@ import hospital.services.DataSala;
 import hospital.view.SalaView;
 
 
+
 public class Main {
     public static void main(String[] args) {
         // Crear instancia de la vista de login
