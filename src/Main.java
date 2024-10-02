@@ -1,15 +1,23 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import hospital.controller.LoginController;
+import hospital.view.LoginView;
+import backEnd.BackEnd;
+import hospital.services.DataSala;
+import hospital.view.SalaView;
+
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        // Crear instancia de la vista de login
+        LoginView loginView = new LoginView();
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        // Crear instancia del backend
+        BackEnd backEnde = new BackEnd();
+        LoginView loginView1 = new LoginView();
+
+
+        // Crear y mostrar la vista de salas
+        SalaView salasView = new SalaView();
+        DataSala dataSalas = new DataSala();
+        BackEnd backEnd = new BackEnd();
     }
 }
