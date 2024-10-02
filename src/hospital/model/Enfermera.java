@@ -1,4 +1,4 @@
 package hospital.model;
 
-public class Enferme {
+public class Enfermera {
 }
