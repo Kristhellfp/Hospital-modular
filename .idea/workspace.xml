@@ -5,11 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96321fe8-1941-4e31-a0f3-1c3638ca412a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital-modular.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/backEnd/BackEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/model/Doctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/model/Enferme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/model/Medicina.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/model/Paciente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/model/Receta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/model/Sala.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/model/Secretaria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/services/DataDoctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/services/DataEnfermera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/services/DataFarmacia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/services/DataPaciente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/services/DataSala.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/view/DoctorView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/view/EnfermeraView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/view/FarmaciaView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/view/LoginView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/view/PacientesView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/view/SalaView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hospital-modular/hospital/view/SecretariaView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backEnd/BackEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backEnd/BackEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hospital/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hospital/model/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/model/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hospital/model/Enferme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/model/Enfermera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hospital/services/DataDoctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/services/DataDoctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hospital/view/LoginView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/view/LoginView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +71,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "RamaLogin-Controller",
+    "git-widget-placeholder": "Merging RamaLogin-Controller",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/home/kristhel/IdeaProjects/Hospital-modular/src/Main.java"
   }
